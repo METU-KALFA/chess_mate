@@ -18,7 +18,9 @@ Chess playing robot arm project.
 `stuff`
 `here`
 
-## Pipeline
+## Project Outline
+![UML](uml.png)
+
 
 ### Game Controller
 - Keeps track of the game state
