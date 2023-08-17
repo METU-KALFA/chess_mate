@@ -8,7 +8,7 @@ Chess playing robot arm project.
 - python-chess
 - OpenCV
 - realsense-ros
-- MoveIt
+- MoveIt 
 - rosserial
 - roscontrol-pkg
 - ultralytics
