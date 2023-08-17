@@ -32,7 +32,15 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 
 
 ### Computer Vision
-*fill this part and add images*
+#### First Step: Chessboard Detection
+- The image is resized as 640x640 to be prepared for object detection.
+- Chessboard is detected by machine learning model prepared using YOLOv8 object detection algorithm.
+- The image is cropped by the taken data from the object detection model.
+Second Step: Preparing Image
+- Adaptive threshold is applied to the image.
+- All contours are found and the biggest contour is selected.
+- Corner points of the image is found by the selected contour.
+Third Step: 
 
 #### Weights for piece and board detection
 
