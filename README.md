@@ -2,6 +2,16 @@
 Chess playing robot arm project.
 
 ## Dependencies
+- libfranka
+- franka_ros
+- stockfish
+- python-chess
+- OpenCV
+- realsense-ros
+- MoveIt
+- rosserial
+- roscontrol-pkg
+- ultralytics
 
 ## Weights for piece and board detection
 
