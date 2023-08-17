@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/yw1zi1H.jpeg" width="180"/>
 
   
-  <img src="https://www.metu.edu.tr/system/files/logo_orj/9/9.4.png" width="300"/>
+  <img src="https://www.metu.edu.tr/system/files/logo_orj/9/9.4.png" width="500"/>
   
  
  </div>
