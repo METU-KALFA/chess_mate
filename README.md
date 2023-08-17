@@ -17,7 +17,7 @@ Chess playing robot arm project.
 - Picks the best move for the robot using the Stockfish engine
 - Handles special chess rules such as castling, piece promotion, and en passant.
 - Detects the player move after the button is pressed. If move is not valid due to piece detection errors, program will prompt you to 		  enter a move from the terminal
-- Sends the start and goal positions to move_controller
+- Sends the pick and place positions to move_controller
 
 
 ### Computer Vision
