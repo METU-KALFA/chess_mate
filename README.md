@@ -1,5 +1,5 @@
 # chess_mate
-Chess playing robot arm project.
+A chess-playing robot arm adept at analyzing and engaging with diverse board positions using piece detection and traditional computer vision methods.
 
 ## Dependencies
 - libfranka
