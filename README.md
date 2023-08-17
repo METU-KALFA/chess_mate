@@ -21,12 +21,16 @@ Chess playing robot arm project.
 
 
 ### Computer Vision
-
+*fill this part and add images*
 
 ### Motion Controller
-
+*fill this part*
 
 ## Future Improvements
-
+- Improve piece detection
+- Pixel to world coordinates implemented but not working correctly. For now we keep the board fixed.
+- After fixing step 2, will need to test piece promotion to make sure the model can detect pieces outside of the board and their coordinates and make the correct set of moves to promote a piece
+- Test if robot can make an en passant move, and if it can recognize if a player makes an en passant move
+- Test if the robot can make a castling move
 
 ## Some errors we run into and how to fix them
