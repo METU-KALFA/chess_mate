@@ -1,6 +1,6 @@
 # chess_mate
 <div id="header" align="center">
-  <img src="https://i.imgur.com/G1cYMJ0.png" width="180"/>
+  <img src="https://i.imgur.com/9J742ze.png" width="180"/>
   <img src="https://www.metu.edu.tr/system/files/logo_orj/9/9.4.png" width="250"/>
   
  
