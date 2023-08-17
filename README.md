@@ -56,3 +56,6 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 - After fixing step 2, will need to test piece promotion to make sure the model can detect pieces outside of the board and their coordinates and make the correct set of moves to promote a piece
 - Test if robot can make an en passant move, and if it can recognize if a player makes an en passant move
 - Test if the robot can make a castling move
+
+## Author(s)
+
