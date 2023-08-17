@@ -33,7 +33,6 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 
 ### Computer Vision
 *fill this part and add images*
-![COLLAGE](collage.jpeg)
 
 #### Weights for piece and board detection
 
