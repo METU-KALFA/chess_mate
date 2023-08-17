@@ -1,6 +1,6 @@
 # chess_mate
 <div id="header" align="center">
-  <img src="https://romer.metu.edu.tr/wp-content/uploads/2023/01/Picture2-1920x640.png" width="250"/>
+  <img src="https://i.imgur.com/G1cYMJ0.png" width="250"/>
   <img src="https://www.metu.edu.tr/system/files/logo_orj/9/9.4.png" width="250"/>
   
  
