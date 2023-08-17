@@ -18,7 +18,6 @@ Chess playing robot arm project.
 `stuff`
 `here`
 
-
 ## Pipeline
 
 ### Game Controller
