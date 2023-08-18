@@ -41,9 +41,11 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 - The image is resized as 640x640 to be prepared for object detection.
 - Chessboard is detected by machine learning model prepared using YOLOv8 object detection algorithm.
 - The image is cropped by the taken data from the object detection model.
-  ![ORIGINAL IMAGE](original image.jpg) ![RESIZE](resize.jpg) ![CROPPED IMAGE](cropped image.jpg)
-
-
+ <div id="header" align="center">
+  <img src="https://github.com/METU-KALFA/chess_mate/blob/main/original%20image.jpg" width="180"/>
+  
+  <img src="https://github.com/METU-KALFA/chess_mate/blob/main/resize.jpg" width="180"/>
+ </div>
 #### Second Step: Preparing Image
 - Adaptive threshold is applied to the image.
 - All contours are found and the biggest contour is selected.
