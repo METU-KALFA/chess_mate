@@ -44,8 +44,17 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 #### Second Step: Preparing Image
 - Adaptive threshold is applied to the image.
 - All contours are found and the biggest contour is selected.
-- Corner points of the image is found by the selected contour.
-#### Third Step: 
+- Outer corner points of the image is found by the selected contour.
+#### Third Step: Perspective Transform
+- According to found corner points, perspective transform matrix M is found by cv2.perpectiveTransform() and perspective transform is applied to the image by cv2.warpPerspective().
+- In the bird-view image, all four corner points of every square are found and transformed a list.
+#### Fourth Step: Inverse Perspective Transform
+- By using the inverse matrix of the perspective transform matrix, four corner points of every square are transformed back to the original perspective.
+- By mathematical operations, center points of every square are found.
+#### Fifth Step: Back to the Original Image
+- Thanks to knowing the top left corner pixel coordinate of the boundary box of detected chessboard, the cropped image with center points is tranformed back to the resized version of the original image.
+- By scaling the resized image, the original image with center points is obtained.
+
 
 #### Weights for piece and board detection
 
