@@ -44,7 +44,7 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
  <div id="header" align="center">
   <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/original%20image.jpg" width="200"/>
   
-  <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/resize.jpg" widhth="200"/>
+  <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/resize.jpg" width="200"/>
   
   <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/cropped%20image.jpg" width="200"/>
  </div>
