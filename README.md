@@ -1,11 +1,8 @@
 # chess_mate
 <div id="header" align="center">
   <img src="https://i.imgur.com/yw1zi1H.jpeg" width="180"/>
-
   
   <img src="https://www.metu.edu.tr/system/files/logo_orj/9/9.4.png" width="350"/>
-  
- 
  </div>
 A chess-playing robot arm adept at analyzing and engaging with diverse board positions using object detection and traditional computer vision methods.
 
