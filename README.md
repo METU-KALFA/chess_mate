@@ -59,6 +59,7 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
   <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/outer%20corners.jpg" height="200"/>
   
  </div>
+ 
 #### Third Step: Perspective Transform
 - According to found corner points, perspective transform matrix M is found by cv2.perpectiveTransform() and perspective transform is applied to the image by cv2.warpPerspective().
 - In the bird-view image, all four corner points of every square are found and transformed a list.
@@ -73,6 +74,7 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 <div id="header" align="center">
   <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/four%20points.jpg" height="200"/>
  </div>
+ 
 #### Fifth Step: Back to the Original Image
 - Thanks to knowing the top left corner pixel coordinate of the boundary box of detected chessboard, the cropped image with center points is tranformed back to the resized version of the original image.
 - By scaling the resized image, the original image with center points is obtained.
