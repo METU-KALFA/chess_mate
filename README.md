@@ -68,6 +68,7 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 
   <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/copy.jpg" height="200"/>
  </div>
+ 
 #### Fourth Step: Inverse Perspective Transform
 - By using the inverse matrix of the perspective transform matrix, four corner points of every square are transformed back to the original perspective.
 - By mathematical operations, center points of every square are found.
