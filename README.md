@@ -87,6 +87,8 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
  </div>
 
 #### Weights for piece and board detection
+Board detection: https://drive.google.com/drive/folders/1Q814KcSBCfySLgavn4tyzaaHBehxSmb8?usp=drive_link
+Pieces detection: 
 
 
 ### Motion Controller
