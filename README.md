@@ -66,10 +66,18 @@ cd ~/pandachess_ws
 source devel/setup.bash
 rosrun panda_chess game_controller
 ```
-#### Second computer
+### Second computer
 This computer used for run YOLOv8 and publish chess board information.
 
 ```git clone -b second_computer_ws https://github.com/METU-KALFA/chess_mate```
+
+#### ROS Communication between other PC to get chessboard boundary box data;
+```
+gedit ~/.bashrc
+export ROS_MASTER_URI=http://10.0.0.1:11311
+export ROS_IP=10.0.0.4
+```
+
 
 
 ## Project Outline
