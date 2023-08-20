@@ -163,7 +163,7 @@ Pieces detection: https://drive.google.com/drive/folders/1nWCjnJWY0MIILTfV6DDCxn
 
 
 ## Future Improvements
-- Improve piece detection
+- Improve piece detection model
 - Pixel to world coordinates implemented but not working correctly. For now we keep the board fixed.
 - After fixing step 2, will need to test piece promotion to make sure the model can detect pieces outside of the board and their coordinates and make the correct set of moves to promote a piece
 - Test if robot can make an en passant move, and if it can recognize if a player makes an en passant move
