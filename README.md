@@ -6,7 +6,7 @@
  </div>
 A chess-playing robot arm adept at analyzing and engaging with diverse board positions using object detection and traditional computer vision methods.
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/GnKijB48dgs/0.jpg)](http://www.youtube.com/watch?v=GnKijB48dgs)
+[![IMAGE ALT TEXT HERE](https://github.com/METU-KALFA/chess_mate/blob/main/images/panda_pp.jpg)](http://www.youtube.com/watch?v=GnKijB48dgs)
 
 - [Introduction](#introduction)
 - [Dependencies](#dependencies)
