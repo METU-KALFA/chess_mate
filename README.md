@@ -6,13 +6,14 @@
  </div>
 A chess-playing robot arm adept at analyzing and engaging with diverse board positions using object detection and traditional computer vision methods.
 
-[Introduction](#introduction)
-[Dependencies](#dependencies)
-[Installation](#installation)
-[Project Outline](project_outline)
-[Game Controller](#game_controller)
-[Computer Vision](#real-cool-heading)
-
+- [Introduction](#introduction)
+- [Dependencies](#dependencies)
+- [Installation](#installation)
+- [Project Outline](project_outline)
+- [Game Controller](#game_controller)
+- [Computer Vision](#computer_vision)
+- [Future Improvements](#future_improvements)
+- [Author(s)](#author(s))
 ## Dependencies
 - [franka_ros](https://frankaemika.github.io/docs/installation_linux.html)
 - [stockfish](https://stockfishchess.org/download/linux/)
