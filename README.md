@@ -49,6 +49,22 @@ roslaunch realsense2_camera rs_camera.launch rgb_camera.color_format:=RGB8
 ```
 rosrun rosserial_arduino serial_node.py _port:=/dev/ttyUSB0   #check your port
 ```
+#### Run Python scripts (3 different terminal)
+```
+cd ~/pandachess_ws
+source devel/setup.bash
+rosrun panda_chess motion_controller
+```
+```
+cd ~/pandachess_ws
+source devel/setup.bash
+rosrun panda_chess board_sensor
+```
+```
+cd ~/pandachess_ws
+source devel/setup.bash
+rosrun panda_chess game_controller
+```
 
 
 ## Project Outline
