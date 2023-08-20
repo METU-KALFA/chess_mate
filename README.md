@@ -7,12 +7,12 @@
 A chess-playing robot arm adept at analyzing and engaging with diverse board positions using object detection and traditional computer vision methods.
 
 
-#Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-#Heading 2 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-#Heading 3 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-#Heading 4 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-#Heading 5 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-#Heading 6 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+- # [Introduction](https://github.com/METU-KALFA/chess_mate#introduction)
+- # [Dependencies](https://github.com/METU-KALFA/chess_mate#dependencies)
+- # [Installation](https://github.com/METU-KALFA/chess_mate#installation)
+- #[Heading link](https://github.com/METU-KALFA/chess_mate#introduction)
+- #[Heading link](https://github.com/METU-KALFA/chess_mate#introduction)
+- #[Heading link](https://github.com/METU-KALFA/chess_mate#introduction)
 
 ## Dependencies
 - [franka_ros](https://frankaemika.github.io/docs/installation_linux.html)
