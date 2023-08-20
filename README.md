@@ -64,6 +64,9 @@ cd ~/pandachess_ws
 source devel/setup.bash
 rosrun panda_chess game_controller
 ```
+#### Second computer
+This computer used for run YOLOv8 and publish chess board information.
+``
 
 
 ## Project Outline
