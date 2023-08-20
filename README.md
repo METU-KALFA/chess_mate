@@ -12,11 +12,11 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 - stockfish
 - python-chess
 - OpenCV
-- realsense-ros
-- MoveIt 
-- rosserial
-- roscontrol-pkg
-- ultralytics
+- [realsense-ros](https://github.com/IntelRealSense/realsense-ros)
+- [MoveIt](https://moveit.ros.org/install/)
+- [rosserial](https://microcontrollerslab.com/rosserial-arduino-setup-ros-node/)
+- [ros-control](https://github.com/ros-controls/ros_control)
+- [ultralytics](https://github.com/ultralytics/ultralytics)
 
 ## Installation
 - Start Ubuntu 20.04 real-time kernel which is in advanced settings in grub menu.
