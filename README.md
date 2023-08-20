@@ -66,7 +66,7 @@ rosrun panda_chess game_controller
 ```
 #### Second computer
 This computer used for run YOLOv8 and publish chess board information.
-``
+`git clone -b second_computer_ws https://github.com/METU-KALFA/chess_mate`
 
 
 ## Project Outline
