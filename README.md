@@ -96,7 +96,7 @@ python3 board_server.py
 ```
 
 
-## Project Outline
+### Project Outline
 ![UML](uml.png)
 
 
