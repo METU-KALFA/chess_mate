@@ -47,7 +47,7 @@ roslaunch realsense2_camera rs_camera.launch rgb_camera.color_format:=RGB8
 ```
 #### To communicate Arduino with ROS
 ```
-rosrun rosserial_arduino serial_node.py _port:=/dev/ttyUSB0 (check your port)
+rosrun rosserial_arduino serial_node.py _port:=/dev/ttyUSB0   #check your port
 ```
 
 
