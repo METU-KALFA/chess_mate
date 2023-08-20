@@ -71,12 +71,13 @@ This computer used for run YOLOv8 and publish chess board information.
 
 ```git clone -b second_computer_ws https://github.com/METU-KALFA/chess_mate```
 
-#### Set ROS Communication settings between main PC to get chessboard data;
+#### Set ROS communication settings between main PC to get chessboard data;
 ```
 gedit ~/.bashrc
 export ROS_MASTER_URI=http://10.0.0.1:11311
 export ROS_IP=10.0.0.4
 ```
+#### Run python script
 ```
 source home/kovan4/anaconda3/bin/activate
 conda activate chessMate
