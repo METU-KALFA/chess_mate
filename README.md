@@ -170,4 +170,10 @@ Pieces detection: https://drive.google.com/drive/folders/1nWCjnJWY0MIILTfV6DDCxn
 - Test if the robot can make a castling move
 
 ## Author(s)
+## Acknowledgements
+- https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/
+- https://docs.ultralytics.com/usage/python/#track
+- https://ros-planning.github.io/moveit_tutorials/
+- https://ros-planning.github.io/moveit_tutorials/doc/move_group_python_interface/move_group_python_interface_tutorial.html
+- http://docs.ros.org/en/noetic/api/moveit_commander/html/namespacemoveit__commander.html
 
