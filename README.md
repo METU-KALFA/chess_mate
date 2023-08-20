@@ -18,7 +18,7 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 - [ultralytics](https://github.com/ultralytics/ultralytics)
 
 ## Installation
-```git clone https://github.com/METU-KALFA/chess_mate```
+Firstly, install this repo: ```git clone https://github.com/METU-KALFA/chess_mate```
 
 - Start Ubuntu 20.04 real-time kernel which is in advanced settings in grub menu.
 - Turn on the Franka Emika’s computer and make sure the internet cable plug in between Franka Emika’s computer and your computer.
