@@ -170,7 +170,7 @@ Pieces detection: https://drive.google.com/drive/folders/1nWCjnJWY0MIILTfV6DDCxn
 - Test if the robot can make a castling move
 
 ## Author(s)
-[Feyza Nur SÖĞÜT](https://github.com/feyzasogut),[Ekin ERÇETİN](https://github.com/ekin-e),[Zeynep Berda AKKUŞ](https://github.com/berda-ak),[Gürsel TÜRKERİ](https://github.com/gurselturkeri)
+[Feyza Nur SÖĞÜT](https://github.com/feyzasogut), [Ekin ERÇETİN](https://github.com/ekin-e), [Zeynep Berda AKKUŞ](https://github.com/berda-ak), [Gürsel TÜRKERİ](https://github.com/gurselturkeri)
 ## Acknowledgements
 - https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/
 - https://docs.ultralytics.com/usage/python/#track
