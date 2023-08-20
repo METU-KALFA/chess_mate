@@ -30,6 +30,26 @@ cd ~/franka_ros2
 source devel/setup.bash
 roslaunch franka_control franka_control.launch robot_ip:=10.0.0.2
 ```
+#### To launch moveit
+```
+cd ~/panda_chessmate/FrankaRos
+source devel/setup.bash
+roslaunch panda_movit_config move_group.launch arm_id:=panda load_gripper:=true
+```
+#### To visualize robot
+```
+rviz
+File > Open Config > Home > panda_demo.rviz
+```
+#### To launch camera
+```
+roslaunch realsense2_camera rs_camera.launch rgb_camera.color_format:=RGB8
+```
+#### To communicate Arduino with ROS
+```
+rosrun rosserial_arduino serial_node.py _port:=/dev/ttyUSB0 (check your port)
+```
+
 
 ## Project Outline
 ![UML](uml.png)
