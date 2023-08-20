@@ -22,6 +22,12 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 - Start Ubuntu 20.04 real-time kernel which is in advanced settings in grub menu.
 - Turn on the Franka Emika’s computer and make sure the internet cable plug in between Franka Emika’s computer and your computer.
 - Run Firefox browser then go https://10.0.0.2 , firstly you must open joints brake then you must click Activate FCI all these settings are in right side menu.
+- Now, enter the these commands on different terminals;
+```
+cd ~/franka_ros2
+source devel/setup.bash
+roslaunch franka_control franka_control.launch robot_ip:=10.0.0.2
+```
 
 ## Project Outline
 ![UML](uml.png)
