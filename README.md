@@ -13,7 +13,7 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 - [Game Controller](#game-controller)
 - [Computer Vision](#computer-vision)
 - [Future Improvements](#future-improvements)
-- [Author(s)](#author(s))
+- [Author(s)](#authors)
 ## Dependencies
 - [franka_ros](https://frankaemika.github.io/docs/installation_linux.html)
 - [stockfish](https://stockfishchess.org/download/linux/)
