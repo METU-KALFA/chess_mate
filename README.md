@@ -7,11 +7,10 @@
 A chess-playing robot arm adept at analyzing and engaging with diverse board positions using object detection and traditional computer vision methods.
 
 ## Dependencies
-- libfranka
-- franka_ros
-- stockfish
-- python-chess
-- OpenCV
+- [franka_ros](https://frankaemika.github.io/docs/installation_linux.html)
+- [stockfish](https://stockfishchess.org/download/linux/)
+- [python-chess](https://pypi.org/project/python-chess/)
+- [OpenCV]
 - [realsense-ros](https://github.com/IntelRealSense/realsense-ros)
 - [MoveIt](https://moveit.ros.org/install/)
 - [rosserial](https://microcontrollerslab.com/rosserial-arduino-setup-ros-node/)
