@@ -77,7 +77,14 @@ gedit ~/.bashrc
 export ROS_MASTER_URI=http://10.0.0.1:11311
 export ROS_IP=10.0.0.4
 ```
-
+```
+source home/kovan4/anaconda3/bin/activate
+conda activate chessMate
+cd ~/chess_ws
+source devel/setup.bash
+cd ~/chess_ws/src/panda_chess/src
+python3 board_server.py
+```
 
 
 ## Project Outline
