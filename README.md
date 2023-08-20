@@ -71,7 +71,7 @@ This computer used for run YOLOv8 and publish chess board information.
 
 ```git clone -b second_computer_ws https://github.com/METU-KALFA/chess_mate```
 
-#### ROS Communication between other PC to get chessboard boundary box data;
+#### Set ROS Communication settings between main PC to get chessboard data;
 ```
 gedit ~/.bashrc
 export ROS_MASTER_URI=http://10.0.0.1:11311
