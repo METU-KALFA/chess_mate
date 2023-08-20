@@ -6,13 +6,12 @@
  </div>
 A chess-playing robot arm adept at analyzing and engaging with diverse board positions using object detection and traditional computer vision methods.
 
-
-- ## [Introduction](https://github.com/METU-KALFA/chess_mate#introduction)
-- ## [Dependencies](https://github.com/METU-KALFA/chess_mate#dependencies)
-- ## [Installation](https://github.com/METU-KALFA/chess_mate#installation)
-- #[Heading link](https://github.com/METU-KALFA/chess_mate#introduction)
-- #[Heading link](https://github.com/METU-KALFA/chess_mate#introduction)
-- #[Heading link](https://github.com/METU-KALFA/chess_mate#introduction)
+[Introduction](#introduction)
+[Dependencies](#dependencies)
+[Installation](#installation)
+[Project Outline](project_outline)
+[Game Controller](#game_controller)
+[Computer Vision](#real-cool-heading)
 
 ## Dependencies
 - [franka_ros](https://frankaemika.github.io/docs/installation_linux.html)
