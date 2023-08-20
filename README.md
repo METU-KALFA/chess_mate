@@ -24,7 +24,7 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 - Run Firefox browser then go https://10.0.0.2 , firstly you must open joints brake then you must click Activate FCI all these settings are in right side menu.
 - Now, enter the these commands on different terminals;
 
-####To launch robot control
+#### To launch robot control
 ```
 cd ~/franka_ros2
 source devel/setup.bash
