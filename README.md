@@ -172,9 +172,12 @@ Pieces detection: https://drive.google.com/drive/folders/1nWCjnJWY0MIILTfV6DDCxn
 ### Motion Controller
 The robotic manipulator control was provided by **MoveIt** which has a Motion Planning and Inverse Kinematic Solver plugins. 
 Some MoveIt features;
+
 #### Easy to Use Setup Assistant
 Quickly setup Franka Emika robot to work with MoveIt with the step-by-step configuration wizard. Also includes configuration of Gazebo and ROS Control.
+
 [Click](https://ros-planning.github.io/moveit_tutorials/doc/setup_assistant/setup_assistant_tutorial.html) for tutorial on official website
+
 <div id="header" align="center">
   <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/Screenshot%20from%202023-07-24%2018-07-15.png" height="300"/>
  </div>
