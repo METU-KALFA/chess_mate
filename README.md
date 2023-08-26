@@ -172,6 +172,10 @@ Pieces detection: https://drive.google.com/drive/folders/1nWCjnJWY0MIILTfV6DDCxn
 The robotic manipulator control was provided by 'MoveIt' which has a Motion Planning and Inverse Kinematic Solver plugins. 
 Some MoveIt features;
 #### 3D Interactive Visualizer
+Rviz is the primary visualizer in ROS and an incredibly useful tool for debugging robotics. Before end effector of robotic arm reach target point planning scenario shows up on Rviz.
+<div id="header" align="center">
+  <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/3d_visualizer.png" height="200"/>
+ </div>
 
 
 
