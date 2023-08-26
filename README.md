@@ -14,6 +14,7 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 - [Project Outline](#project-outline)
 - [Game Controller](#game-controller)
 - [Computer Vision](#computer-vision)
+- [Motion Controller](#motion-controller)
 - [Future Improvements](#future-improvements)
 - [Author(s)](#authors)
 
