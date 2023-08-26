@@ -169,8 +169,9 @@ Pieces detection: https://drive.google.com/drive/folders/1nWCjnJWY0MIILTfV6DDCxn
 
 
 ### Motion Controller
-*fill this part*
-*maybe add gazebo gif*
+The robotic manipulator control was provided by 'MoveIt' which has a Motion Planning and Inverse Kinematic Solver plugins. Some MoveIt features;
+#### 3D Interactive Visualizer
+
 
 
 ## Future Improvements
