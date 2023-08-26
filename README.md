@@ -192,7 +192,12 @@ Rviz is the primary visualizer in ROS and an incredibly useful tool for debuggin
  <div id="header" align="center">
   <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/2023-07-24%2018-03-03.gif" height="300"/>
  </div>
-
+ 
+ #### Static Obstacle Avoidance 
+In MoveIt it can be added static object into the world at the location of you want. Thus motion planning change according to where static object is. 
+<div id="header" align="center">
+  <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/Screenshot%20from%202023-07-24%2018-20-35.png" height="300"/>
+ </div>
 
 
 ## Future Improvements
