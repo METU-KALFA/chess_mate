@@ -170,7 +170,7 @@ Pieces detection: https://drive.google.com/drive/folders/1nWCjnJWY0MIILTfV6DDCxn
 
 
 ### Motion Controller
-The robotic manipulator control was provided by 'MoveIt' which has a Motion Planning and Inverse Kinematic Solver plugins. 
+The robotic manipulator control was provided by **MoveIt** which has a Motion Planning and Inverse Kinematic Solver plugins. 
 Some MoveIt features;
 #### 3D Interactive Visualizer
 Rviz is the primary visualizer in ROS and an incredibly useful tool for debugging robotics. Before end effector of robotic arm reach target point, planning scenario shows up on Rviz.
