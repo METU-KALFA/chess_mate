@@ -174,13 +174,13 @@ Some MoveIt features;
 #### 3D Interactive Visualizer
 Rviz is the primary visualizer in ROS and an incredibly useful tool for debugging robotics. Before end effector of robotic arm reach target point, planning scenario shows up on Rviz.
 <div id="header" align="center">
-  <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/3d_visualizer.png" height="200"/>
+  <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/3d_visualizer.png" height="300"/>
  </div>
 
  #### Gazebo Simulation
  Physics-based simulator needed to speed up development and testing of codes. Combine Gazebo, ROS control packages, and MoveIt we simulated robotic manipulator.
  <div id="header" align="center">
-  <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/2023-07-24%2018-03-03.gif" height="200"/>
+  <img src="https://github.com/METU-KALFA/chess_mate/blob/main/images/2023-07-24%2018-03-03.gif" height="300"/>
  </div>
 
 
