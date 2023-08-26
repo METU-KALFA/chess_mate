@@ -169,7 +169,8 @@ Pieces detection: https://drive.google.com/drive/folders/1nWCjnJWY0MIILTfV6DDCxn
 
 
 ### Motion Controller
-The robotic manipulator control was provided by 'MoveIt' which has a Motion Planning and Inverse Kinematic Solver plugins. Some MoveIt features;
+The robotic manipulator control was provided by 'MoveIt' which has a Motion Planning and Inverse Kinematic Solver plugins. 
+Some MoveIt features;
 #### 3D Interactive Visualizer
 
 
