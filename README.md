@@ -6,7 +6,9 @@
  </div>
 A chess-playing robot arm adept at analyzing and engaging with diverse board positions using object detection and traditional computer vision methods.
 <div id="header" align="center">
-<a href="https://www.canva.com/design/DAFrJdp1YB0/O-k7xDeHQn0ydkKxtbM_hg/edit">Presentation of Project</a>
+<a href="https://www.canva.com/design/DAFrJdp1YB0/O-k7xDeHQn0ydkKxtbM_hg/edit">Project Presentation</a>
+<a href="https://youtu.be/GnKijB48dgs?si=8H-zNgtEQdUxBpWe">Project Video</a>
+  
  </div>
 
 
