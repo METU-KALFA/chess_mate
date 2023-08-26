@@ -5,6 +5,9 @@
   <img src="https://www.metu.edu.tr/system/files/logo_orj/9/9.4.png" width="350"/>
  </div>
 A chess-playing robot arm adept at analyzing and engaging with diverse board positions using object detection and traditional computer vision methods.
+<div id="header" align="center">
+<a href="https://www.canva.com/design/DAFrJdp1YB0/O-k7xDeHQn0ydkKxtbM_hg/edit">Presentation of Project</a>
+ </div>
 
 
 
