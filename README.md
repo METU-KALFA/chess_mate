@@ -24,6 +24,8 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 - [Future Improvements](#future-improvements)
 - [Author(s)](#authors)
 
+## Introduction
+
 ## Dependencies
 - [franka_ros](https://frankaemika.github.io/docs/installation_linux.html)
 - [stockfish](https://stockfishchess.org/download/linux/)
