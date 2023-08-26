@@ -29,7 +29,7 @@ A chess-playing robot arm adept at analyzing and engaging with diverse board pos
 - [ros-control](https://github.com/ros-controls/ros_control)
 - [ultralytics](https://github.com/ultralytics/ultralytics)
 
-## Installation
+## Installation & Usage
 Firstly, install this repo: ```git clone https://github.com/METU-KALFA/chess_mate```
 
 - Start Ubuntu 20.04 real-time kernel which is in advanced settings in grub menu.
@@ -163,7 +163,9 @@ python3 board_server.py
 
  </div>
 
-#### Weights for piece and board detection
+#### Dataset and Weights for piece and board detection
+Piece Detection Dataset: https://drive.google.com/drive/folders/1a5Nq0hATsIUfsI5qB7sOqqmHZorzAdVR?usp=drive_link
+
 Board detection: https://drive.google.com/drive/folders/1Q814KcSBCfySLgavn4tyzaaHBehxSmb8?usp=drive_link
 
 Pieces detection: https://drive.google.com/drive/folders/1nWCjnJWY0MIILTfV6DDCxnoSCoZ2IwSv?usp=drive_link
